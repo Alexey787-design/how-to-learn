@@ -62,7 +62,6 @@
   z-index: 2;
 }
 
-
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
@@ -190,6 +189,8 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bolder;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .table__text {
@@ -197,12 +198,8 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-}
-
-.paragraph {
-  margin-top: 20px; /* Отступ сверху */
   margin-bottom: 0;
- }
+}
 
 .feynman {
   display: flex;
