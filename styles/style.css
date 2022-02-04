@@ -238,7 +238,6 @@
 .section-title_theme_dark,
 .section-subtitle_theme_dark {
   color: white;
-
 }
 
 .table_theme_dark {
@@ -321,10 +320,10 @@
   line-height: 30px;
 }
 
-.footer__column-heading {
+/* .footer__column-heading {
   box-sizing: border-box;
   margin: 0px;
-}
+} */
 
 .footer__social-icon {
   margin: 0;
