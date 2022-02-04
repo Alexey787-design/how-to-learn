@@ -99,6 +99,8 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  margin-top: 30px;
+  margin-bottom: 0;
 }
 
 .two-columns__span-accent {
@@ -107,11 +109,6 @@
 
 .two-columns__paragraph:first-child {
   margin-top: 0;
-}
-
-.two-columns__paragraph {
-  margin-top: 30px;
-  margin-bottom: 0;
 }
 
 .digits {
@@ -138,7 +135,6 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  margin-top: 20px;
 }
 
 .table {
