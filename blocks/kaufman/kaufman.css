@@ -17,7 +17,7 @@
 
 .kaufman::after {
   content: "";
-  background-image: url("../images/kaufman-triangle.svg");
+  background-image: url("../../images/kaufman-triangle.svg");
   position: absolute;
   width: 877px;
   height: 877px;
